@@ -1,0 +1,16 @@
+[{
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "Udagram"
+},
+{
+    "ParameterKey": "S3BucketAppName",
+    "ParameterValue": "diagram-app-patryk"
+},
+{
+    "ParameterKey": "S3BucketKeyName",
+    "ParameterValue": "diagram-key-patryk"
+},
+{
+    "ParameterKey": "S3BucketLogsName",
+    "ParameterValue": "diagram-logs-patryk"
+}]
